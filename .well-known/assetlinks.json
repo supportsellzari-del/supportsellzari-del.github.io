@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.supportsellzari_del.twa",
+        "sha256_cert_fingerprints": ["D6:A4:05:57:EE:2B:A5:4B:C7:38:D9:27:2D:4C:B9:24:7C:7B:75:33:94:B4:2B:20:64:18:0B:28:36:E6:06:8A"]
+      }
+    }]
